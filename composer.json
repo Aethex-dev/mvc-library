@@ -1,0 +1,26 @@
+{
+    "name": "xenframe/mvc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XENONMC",
+            "email": "support@xenonmc.xyz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    
+    
+    },
+    "autoload": {
+
+      "psr-4": {
+      
+        "mvc\\": "/src"
+      
+      }
+
+    }
+
+}
