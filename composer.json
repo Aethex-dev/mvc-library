@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "xenframe\\Mvc\\": "src/"
+            "xenframe\\MvcLibrary\\": "src/"
         }
     }
 }
