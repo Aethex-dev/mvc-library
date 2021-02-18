@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace xenframe\Mvc;
+namespace xenframe\MvcLibrary;
 
 class Hello
 {
