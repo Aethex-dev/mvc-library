@@ -1,5 +1,5 @@
 {
-    "name": "xenframe/mvc",
+    "name": "xenframe/mvc-library",
     "description": "My first packagist package",
     "type": "package",
     "license": "MIT",
